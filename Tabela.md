@@ -18,7 +18,7 @@
 
 *note: you don't have to place numbers on order the markdown do it for you*
 
-# **Textos**
+# **Texts**
 * Stroke: ~~Text here~~ `~~Text here~~`
 * Italic: _Text here_ `_Text here_`
 * Bold: **Text here** `**Text here**`

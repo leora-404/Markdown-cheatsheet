@@ -15,3 +15,5 @@
 1. Number 1: `1. Number 1`
 2. Number 2: `2. Number 2`
 2. Number 3: `2. Number 3`
+
+*note: you don't have to place numbers on order the markdown do it for you*

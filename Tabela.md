@@ -12,9 +12,6 @@
 * Topic 2 `* Topic 2`
 * Topic 3 `* Topic 3`
 
-**Example:**
-`
-* HTML
-* CSS
-* JS
-`
+1. Number 1: `1. Number 1`
+2. Number 2: `2. Number 2`
+2. Number 3: `2. Number 3`

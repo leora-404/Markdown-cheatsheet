@@ -18,8 +18,7 @@
 
 *note: you don't have to place numbers on order the markdown do it for you*
 
-* Topic 1:
-* Topic 2:
-* Topic 3:
- * Topic 4:
-* Topic 5:
+# **Textos**
+Stroke: ~~Text here~~ `~~Text here~~`
+Italic: _Text here_ `_Text here_`
+Bold: **Text here** `**Text here**`

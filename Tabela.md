@@ -19,5 +19,5 @@
 *note: you don't have to place numbers on order the markdown do it for you*
 
 -[x] Learn HTML & CSS: `-[x] Learn HTML & CSS`
--[] Learn SQL: `-[] Learn SQL`
+-[ ] Learn SQL: `-[] Learn SQL`
 -[x] Learn JS: `-[x] Learn JS`

@@ -22,3 +22,11 @@
 * Stroke: ~~Text here~~ `~~Text here~~`
 * Italic: _Text here_ `_Text here_`
 * Bold: **Text here** `**Text here**`
+
+## Quote
+> Your quote here... `> Your quote here...`
+
+# Long marks
+
+**wait**
+

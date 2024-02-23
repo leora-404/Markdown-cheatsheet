@@ -1,4 +1,4 @@
-**O código será formatado da seguinte maneira: "Como ele aparece" `"Como fazê-lo"`**
+**The cheatsheet will be write like this: "How the code appears" `"How to write"`**
 
 # **Headings:**
 

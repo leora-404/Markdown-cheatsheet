@@ -1,5 +1,5 @@
-#A  Markdown Cheatsheet
-I've made a cheatsheet using markdown highlighting the most important marks like:
+# A  Markdown Cheatsheet
+### I've made a cheatsheet using markdown highlighting the most important marks like:
 * Headings
 * Tables
 * Lists

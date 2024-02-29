@@ -6,7 +6,7 @@
 * Texts
 And more...
 
-You can acess in: **markdown.md**
+You can acess in: **cheatsheet.md**
 
 I hope you enjoy 🙂
 
